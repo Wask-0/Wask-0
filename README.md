@@ -23,3 +23,5 @@
     <img src="https://github.com/Wask-0/Wask-0/blob/main/assets/ds.png" width="106.8" />
   </a>
 </p>
+
+[![Anurag's githab stats](https://github-redme-stats.vercel.app/api?username=Wask-0&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
