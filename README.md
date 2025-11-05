@@ -1,4 +1,4 @@
-Header
+![Header](https://github.com/Wask-0/Wask-0/blob/main/assets/Snake.gif)
 
 About me
 
