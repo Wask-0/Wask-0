@@ -24,4 +24,8 @@
   </a>
 </p>
 
-[![Anurag's githab stats](https://github-redme-stats.vercel.app/api?username=Wask-0&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Wask-0&show_icons=true" alt="Wask-0's GitHub Stats" />
+  </a>
+</p>
