@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  ⚡ I am currently working on automation Albion Online.
+  ⚡ I am currently working on automation games.
 </p>
 
 <p align="center">
